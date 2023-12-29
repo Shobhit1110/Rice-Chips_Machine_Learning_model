@@ -56,7 +56,7 @@ The Image Dataset can be imported from MLend library to your Google Drive. Steps
   ```
 ## Run the full code script:
 ```bash
-python Full_Code.ipynb
+python Full_Code.py
 
 ```
 ## Results
