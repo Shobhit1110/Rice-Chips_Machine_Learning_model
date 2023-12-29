@@ -9,11 +9,14 @@ This machine learning project classifies images of dishes to determine if they c
 ## Machine Learning Pipeline
 
 The project follows a robust machine learning pipeline:
-
-- **Data Loading and Exploration**: Explore the dataset to understand its structure and characteristics.
-- **Image Processing and Feature Extraction**: Apply various image processing techniques and extract essential features for classification.
-- **Normalization and Resampling**: Ensure balanced and normalized data using techniques like SMOTE.
-- **Model Training and Evaluation**: Train multiple models, including Logistic Regression, Random Forest, and XGBoost, and evaluate their performance.
+- **Data Loading and Exploration**:
+  - Explore the dataset to understand its structure and characteristics.
+- **Image Processing and Feature Extraction**:
+  - Apply various image processing techniques and extract essential features for classification.
+- **Normalization and Resampling**: -
+  - Ensure balanced and normalized data using techniques like SMOTE.
+- **Model Training and Evaluation**:
+  - Train multiple models, including Logistic Regression, Random Forest, and XGBoost, and evaluate their performance.
 
 ## Project Structure
 
@@ -44,8 +47,7 @@ The project follows a robust machine learning pipeline:
 - 📄 README.md
 ```
 ## Downloading the Image Dataset
-
-
+The Image Dataset can be imported from MLend library to your Google Drive. Steps are given in Full Code.
 
 ## Clone the repository:
   ```bash
@@ -61,19 +63,19 @@ python Full_Code.ipynb
 
 ### Confusion Matrix - Random Forest Classifier
 
-![Confusion Matrix](confusion_matrix.png)
+![alt img](Result_Images/Confusion_Matrix.png)
 
 ### Feature Importance
 
-![Feature Importance](feature_importance.png)
+![alt img](Result_Images/Feature_Importance.png)
 
 ### ROC - Curve
 
-![Feature Importance](feature_importance.png)
+![alt img](Result_Images/ROC_Curve.png)
 
 ### Classification Report
 
-![Feature Importance](feature_importance.png)
+![alt img](Result_Images/Classification_Report.png)
 
 ## Future Improvements
 
