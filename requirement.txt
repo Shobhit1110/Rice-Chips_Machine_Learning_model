@@ -1,0 +1,15 @@
+google-colab
+numpy
+pandas
+matplotlib
+seaborn
+scikit-image
+Pillow
+opencv-python-headless
+mlend
+scikit-learn
+imbalanced-learn
+xgboost
+scipy
+librosa
+tqdm
